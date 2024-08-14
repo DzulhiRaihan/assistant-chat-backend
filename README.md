@@ -40,3 +40,10 @@ SUPABASE_API_KEY = "your-supabase-api-key"
 **Step 4 :**
 
 Menayalakan server python flask
+
+## FRONTEND APLIKASI
+
+Front end dari aplikasi ini dapat di akses melalui link dibawah ini 
+```
+https://github.com/DzulhiRaihan/assistant-chat-front.git
+```
