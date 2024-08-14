@@ -26,7 +26,7 @@ https://github.com/DzulhiRaihan/assistant-chat-backend.git
 Menginstal dependency yang dibutuhkan dengan menggunakan perintah 
 
 ```
-pip install -r requirement.txt
+pip install -r requirementS.txt
 ```
 **Step 3 :**
 
@@ -34,7 +34,7 @@ Mempersiapkan autentikasi untuk database yang di tampung dalam file .env
 
 ```
 DATABASE_URL= "your-database-url"
-SUPABASE_PROJECT_URL = "your-supabase-project-url
+SUPABASE_PROJECT_URL = "your-supabase-project-url"
 SUPABASE_API_KEY = "your-supabase-api-key"
 ```
 **Step 4 :**
@@ -46,4 +46,11 @@ Menayalakan server python flask
 Front end dari aplikasi ini dapat di akses melalui link dibawah ini 
 ```
 https://github.com/DzulhiRaihan/assistant-chat-front.git
+```
+
+## VIDEO DEMO
+Untuk video demo instalasi dapat dilihat melalui link berikut 
+
+```
+https://youtu.be/RFEPQrWEhMs
 ```
