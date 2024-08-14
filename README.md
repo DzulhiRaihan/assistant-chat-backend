@@ -16,12 +16,19 @@ kemudian untul tabel yang dibutuhkan adalah sebagai berikut
 
 **Step 1 :**
 
+Download atau clone repository ini melalui link
+````
+https://github.com/DzulhiRaihan/assistant-chat-backend.git
+````
+
+**Step 2 :**
+
 Menginstal dependency yang dibutuhkan dengan menggunakan perintah 
 
 ```
 pip install -r requirement.txt
 ```
-**Step 2 :**
+**Step 3 :**
 
 Mempersiapkan autentikasi untuk database yang di tampung dalam file .env
 
@@ -30,6 +37,6 @@ DATABASE_URL= "your-database-url"
 SUPABASE_PROJECT_URL = "your-supabase-project-url
 SUPABASE_API_KEY = "your-supabase-api-key"
 ```
-**Step 3 :**
+**Step 4 :**
 
 Menayalakan server python flask
